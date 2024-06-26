@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "42016626917",
+    "project_id": "phraraonic",
+    "storage_bucket": "phraraonic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42016626917:android:2afeea3c7a6d7786d99c0c",
+        "android_client_info": {
+          "package_name": "com.example.gradutionfinally"
+
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEm6mLb3u8OQkQB_jGZz5Y32qvFFVLIFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42016626917:android:277a8212046cd441d99c0c",
+        "android_client_info": {
+          "package_name": "com.example.test12"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEm6mLb3u8OQkQB_jGZz5Y32qvFFVLIFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
